@@ -21,8 +21,4 @@ I am passionate about programming and perpetual learning, striving for continuou
 
 I am committed to staying abreast of new technologies and applications through a blend of formal education and self-directed learning initiatives. My journey in academia and industry has fueled my curiosity, driving me to explore emerging trends and push the boundaries of my knowledge.
 
-### Explore Further
-
-Feel free to browse through this site to discover more about my background, explore my resume, and delve into some of the projects I am eager to showcase.
-
 ---
