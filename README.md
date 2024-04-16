@@ -1,9 +1,5 @@
-# Robert "Parker" Ellwanbger
-## Engineer @ Company
-
-<div align="right">
-    <img src="me.jpg" alt="Robert's Image" width="200"/>
-</div>
+# Robert "Parker" Ellwanger
+## Automation Test And System Engineer @ NVIDIA
 
 ---
 
@@ -30,5 +26,3 @@ I am committed to staying abreast of new technologies and applications through a
 Feel free to browse through this site to discover more about my background, explore my resume, and delve into some of the projects I am eager to showcase.
 
 ---
-
-Remember to replace `"path_to_your_image"` with the actual path or URL to your image.
