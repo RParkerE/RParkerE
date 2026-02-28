@@ -3,7 +3,8 @@
 
 ---
 
-I am currently pursuing my Masters of Computer Science at the University Of Illinois Urbana Champaign, concurrently working as an Automation System and Test Engineer.
+I just recently completed my Masters of Computer Science at the University Of Illinois Urbana Champaign, concurrently working as an Automation System and Test Engineer.
+I also have a Bachelors in Electrical Engineering and Computer Engineering from North Carolina State University. 
 
 ### About Me
 
@@ -16,6 +17,8 @@ I am passionate about programming and perpetual learning, striving for continuou
 - **Computer Vision:** Exploring the vast possibilities of computer vision technology excites me, especially its applications in real-world scenarios.
   
 - **Autonomous Vehicles:** The fusion of automation and computer vision in autonomous vehicles presents endless opportunities for innovation and societal impact.
+
+- **Nanofabrication:** Working on building an open source hobbyist level silicon foundry. 
 
 ### Continuous Learning
 
